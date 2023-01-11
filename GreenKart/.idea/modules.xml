@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GreenKart.iml" filepath="$PROJECT_DIR$/.idea/GreenKart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UI-Automation/.idea/Web-Automation-.iml" filepath="$PROJECT_DIR$/../UI-Automation/.idea/Web-Automation-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../Python/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
